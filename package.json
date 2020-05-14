@@ -1,0 +1,19 @@
+{
+  "name": "game_logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felipeaugusto95/game_logs.git"
+  },
+  "author": "felipe freire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeaugusto95/game_logs/issues"
+  },
+  "homepage": "https://github.com/felipeaugusto95/game_logs#readme"
+}
