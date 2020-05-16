@@ -14,7 +14,7 @@ Para executar o projeto, no terminal, digite;
     
     $ node index.js
 
-Após a execução, o parser implementado irá varrer o arquivo de log games.log, incluído no diretório 'logs', agrupar os resultados de cada game e salvar em um arquivo nomeado collection.js localizado no diretório 'collections'. Este arquivo collection.js será utilizado como base de dados para a API, que já estará rodando aceitando requisições a partir da porta 3000.
+Após a execução, o parser implementado irá varrer o arquivo de log games.log, incluído no diretório 'logs', agrupar os resultados de cada game e salvar em um arquivo nomeado collection.json localizado no diretório 'collections'. Este arquivo collection.json será utilizado como base de dados para a API, que já estará rodando aceitando requisições a partir da porta 3000.
 
 A API, tem duas rotas possíveis:
 
