@@ -13,7 +13,7 @@ router.get('/result', async (req, res) => {
                 throw err;
             }
 
-            res.send(data);
+            res.send(JSON.parse(data));
         });
 
     } catch(err){
